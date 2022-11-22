@@ -6,16 +6,16 @@ jdbc:h2:~/jpashop (최소 한번)
 
 ~~/jpashop.mv.db 파일 생성 확인
 
-이후 부터는 jdbc:h2:tcp://localhost/~/jpashop 이렇게 접속
-새로프로그램 실행 시 @@.mv.db 삭제 후 진행
+이후 부터는 jdbc:h2:tcp://localhost/~/jpashop 이렇게 접속<br>
+새로프로그램 실행 시 @@.mv.db 삭제 후 진행<br>
 
 
 
 
 
-Preferences Build, Execution, Deployment Build Tools Gradle
-Build and run using: Gradle IntelliJ IDEA
-Run tests using: Gradle IntelliJ IDEA
+Preferences Build, Execution, Deployment Build Tools Gradle<br>
+Build and run using: Gradle IntelliJ IDEA<br>
+Run tests using: Gradle IntelliJ IDEA<br>
 
 1.JDBC 이해✔<br>
 2.커넥션풀과 데이터소스 이해<br>
