@@ -17,6 +17,8 @@ Preferences Build, Execution, Deployment Build Tools Gradle<br>
 Build and run using: Gradle IntelliJ IDEA<br>
 Run tests using: Gradle IntelliJ IDEA<br>
 
+h2 DB에서 delete from member; 실행 후 테스트 진행<br>
+
 1.JDBC 이해✔<br>
 2.커넥션풀과 데이터소스 이해<br>
 3.트랜잭션 이해<br>
